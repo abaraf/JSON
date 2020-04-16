@@ -1,7 +1,17 @@
 {
    "todays report":[
       {
-         "last":"12542"
+         "today24test":"2135"
+      },
+       {
+         "today24positive":"341"
+      },
+       {
+         "today24totalpositive":"1572"
+      },
+      {
+         "today24totalrecover":"49"
       }
+      
    ]
 }
