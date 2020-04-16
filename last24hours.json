@@ -1,7 +1,18 @@
 {
    "todays report":[
       {
-         "todayTest":2135
+         "todaytest": 2135
+      },
+       {
+         "todaypositive":341
+      },
+       {
+         "todaytotalpositive":1572
+      },
+      {
+         "todaytotalrecover":49
       }
+      
    ]
 }
+
