@@ -1,9 +1,163 @@
-[{
-		"district": "Dhaka City: 1174",
-		"number": "147"
-	},
-	{
-		"district": "Dhaka District: 42",
-		"number": "154541"
-	}
-]
+{
+   "todays report":[
+      {
+         "zilla":"Dhaka City: 843"
+      },
+      {
+         "zilla":"Dhaka District: 34"
+      },
+      {
+         "zilla":"Gazipur: 161"
+      },
+      {
+         "zilla":"Kishoreganj: 54"
+      },
+      {
+         "zilla":"Madaripur: 25"
+      },
+      {
+         "zilla":"Manikganj: 6"
+      },
+      {
+         "zilla":"Narayanganj: 309"
+      },
+      {
+         "zilla":"Munshigonj: 33"
+      },
+      {
+         "zilla":"Narsingdi: 93"
+      },
+      {
+         "zilla":"Rajbari: 7"
+      },
+      {
+         "zilla":"Faridpur: 4"
+      },
+      {
+         "zilla":"Tangail: 9"
+      },
+      {
+         "zilla":"Shariatpur: 7"
+      },
+      {
+         "zilla":"Gopalganj: 21"
+      },
+      {
+         "zilla":"Chattogram: 38"
+      },
+      {
+         "zilla":"Cox’s bazar: 1"
+      },
+      {
+         "zilla":"Cumilla: 17"
+      },
+      {
+         "zilla":"B. Baria: 10"
+      },
+      {
+         "zilla":"Laksmipur: 18"
+      },
+      {
+         "zilla":"Bandarban: 1"
+      },
+      {
+         "zilla":"Noakhali: 3"
+      },
+      {
+         "zilla":"Feni: 1"
+      },
+      {
+         "zilla":"Chandpur: 8"
+      },
+      {
+         "zilla":"Moulovi Bazar: 2"
+      },
+      {
+         "zilla":"SunamGanj: 1"
+      },
+      {
+         "zilla":"Hobiganj: 1"
+      },
+      {
+         "zilla":"Sylhet: 3"
+      },
+      {
+         "zilla":"Rangpur: 4"
+      },
+      {
+         "zilla":"Gaibandha: 12"
+      },
+      {
+         "zilla":"Nilphamari: 9"
+      },
+      {
+         "zilla":"Lalmonirhat: 2"
+      },
+      {
+         "zilla":"Kurigram: 2"
+      },
+      {
+         "zilla":"Dinajpur: 9"
+      },
+      {
+         "zilla":"Panchagar: 1"
+      },
+      {
+         "zilla":"Thakurgaon: 5"
+      },
+      {
+         "zilla":"Khulna: 1"
+      },
+      {
+         "zilla":"Jessore: 1"
+      },
+      {
+         "zilla":"Bagerhat: 1"
+      },
+      {
+         "zilla":"Narail: 2"
+      },
+      {
+         "zilla":"Chuadanga: 1"
+      },
+      {
+         "zilla":"Mymensingh: 19"
+      },
+      {
+         "zilla":"Jamalpur: 17"
+      },
+      {
+         "zilla":"Netrokona: 12"
+      },
+      {
+         "zilla":"Sherpur: 11"
+      },
+      {
+         "zilla":"Barguna: 9"
+      },
+      {
+         "zilla":"Barishal: 18"
+      },
+      {
+         "zilla":"Potuakhali: 2"
+      },
+      {
+         "zilla":"Pirojpur: 4"
+      },
+      {
+         "zilla":"Jhalokathi: 3"
+      },
+      {
+         "zilla":"Joypurhat: 2"
+      },
+      {
+         "zilla":"Pabna: 1"
+      },
+      {
+         "zilla":"Bogra: 1"
+      },
+      {
+         "zilla":"Rajshahi: 4"
+      }
+   ]
+}
