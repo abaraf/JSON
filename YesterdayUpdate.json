@@ -1,14 +1,13 @@
 {
    "todays report":[
       {
-         "todaydate": "Date: ২০/04/2020",
+         "todaydate": "Date: 21/04/2020",
          "todaytest":"গত ২৪ ঘন্টায় নমুনা পরীক্ষা হয়েছে: ২৭৭৯ জন",
-         "todaypositive":"গত ২৪ ঘন্টায় করোনা রোগী শনাক্ত: ৪৯২ জন ",
-         "todaytotalpositive":"সারাদেশে করোনা রোগীর সংখ্যা: ২৯৪৮ জন",
-         "todaydeath":"গত ২৪ ঘন্টায় মৃতের সংখ্যা: ১০ জন",
-         "todaytotaldeath":"মোট মৃতের সংখ্যা: ১০১ জন",
-         "todaytotalrecover":"সুস্থ হয়ে বাড়ি ফিরে গেছেন: ৮৫ জন"
+         "todaypositive":"গত ২৪ ঘন্টায় করোনা রোগী শনাক্ত: ৪৩৪ জন ",
+         "todaytotalpositive":"সারাদেশে করোনা রোগীর সংখ্যা: ৩৩৮২ জন",
+         "todaydeath":"গত ২৪ ঘন্টায় মৃতের সংখ্যা: ৯ জন",
+         "todaytotaldeath":"মোট মৃতের সংখ্যা: ১১০ জন",
+         "todaytotalrecover":"সুস্থ হয়ে বাড়ি ফিরে গেছেন: ৮৭ জন"
       }
    ]
 }
-
